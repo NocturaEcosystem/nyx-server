@@ -1,1 +1,5 @@
 node_modules
+src/test.ts
+logs/repo.json
+logs/logs.py
+logs/.venv/
